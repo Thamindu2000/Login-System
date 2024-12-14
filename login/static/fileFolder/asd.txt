@@ -1,0 +1,30 @@
+requestmapping = give a common door to all class
+
+getmapping =  give a seperate door to a function
+
+controller
+
+repository
+entity
+
+
+
+mysql
+sql server
+mysql server management studio
+server
+
+cmd command
+netstat -a -n -o
+then find PID that us e port 3306 and stop that process in task manager.
+then again start that in service that have name "MySQL80"
+mysqld.exe
+
+introduction
+requirement
+functions
+technical details/cost
+timeline
+
+wmic path softwarelicensingservice get OA3xOriginalProductKey
+4YVHX-NXWBK-KWWTX-FJ97W-Q69RC
